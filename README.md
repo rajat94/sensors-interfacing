@@ -1,2 +1,0 @@
-# sensors-interfacing
-using arduino
